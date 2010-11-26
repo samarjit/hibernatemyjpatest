@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="var" path="M2_REPO"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/drools511"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/oracle"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/log4j"/>
+	<classpathentry kind="lib" path="C:/Eclipse/workspace1/JPAHibernateTutorial/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/workspace1/JPAHibernateTutorial/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/workspace1/JPAHibernateTutorial/slf4j-log4j12-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
