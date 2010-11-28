@@ -10,9 +10,9 @@
             <property name="hibernate.dialect" value="org.hibernate.dialect.Oracle9Dialect"/>
             <property name="hibernate.connection.driver_class" value="oracle.jdbc.driver.OracleDriver"/>
             <property name="hibernate.show_sql" value="true"/>
-            <property name="hibernate.connection.username" value="user"/>
-            <property name="hibernate.connection.password" value="password"/>
-            <property name="hibernate.connection.url" value="jdbc:oracle:thin:@server:port:schemaname"/>
+            <property name="hibernate.connection.username" value="drools"/>
+            <property name="hibernate.connection.password" value="drools"/>
+            <property name="hibernate.connection.url" value="jdbc:oracle:thin:@127.0.0.1:1521:XE"/>
             <property name="hibernate.max_fetch_depth" value="3"/>
             
             
